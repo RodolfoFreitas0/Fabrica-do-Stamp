@@ -41,7 +41,6 @@ class UIButton(UIElement):
         
         color = self.hover_color if self.hover else self.base_color
         pygame.draw.rect(surf, color, self.rect)
-
 class UITextButton(UIButton):
     def __init__(self, x, y, width, height, text, font, on_click=None):
         super().__init__(x, y, width, height, on_click)
@@ -119,6 +118,13 @@ class UIManager():
         button = UIBar(x, y, width, height, max_value)
         self.elements.append(button)
         return button
+
+    def mouse_over_ui(self):
+        mouse_pos = pygame.mouse.get_pos()
+        for element in self.elements:
+            if element.rect.collidepoint(mouse_pos):
+                return True
+        return False
 
     def update(self, events):
         for element in reversed(self.elements):

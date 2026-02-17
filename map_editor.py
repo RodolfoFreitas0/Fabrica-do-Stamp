@@ -180,6 +180,9 @@ class Editor:
             
             if event.type == pygame.MOUSEBUTTONDOWN:
 
+                if self.uimanager.mouse_over_ui():
+                    continue
+
                 if event.button == 1:
                     exists = False
 

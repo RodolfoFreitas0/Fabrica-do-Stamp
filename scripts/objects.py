@@ -1,7 +1,6 @@
 import pygame
 
-from scripts.face import Face
-
+from scripts.loader import load_img
 class Object():
     def __init__(self, x, y, width, height):
         self.rect = pygame.Rect(x, y, width, height)
@@ -45,18 +44,14 @@ class Player(PhysObject):
     def __init__(self, x, y, width, height):
         super().__init__(x, y, width, height)
 
-        self.stamp_rect = pygame.Rect(x - 2, y + height - 2, width + 4, 5)
-        self.inv_rect = pygame.Rect(x + 2, y + height - 5, width - 4, 5)
-        self.collor_rect = pygame.Rect(x, y + height + 2, width, 2)
+        self.sprites = {
+            "idle": load_img("entities/CarimboG.png"),
+            "right": load_img("entities/CarimboGLado.png")
+        }
 
-        self.speed = 5
+        self.speed = 4
         self.jump_force = 15
-
-        self.face = Face(
-            head_size=width,
-            eye_size=width//6,
-            mouth_size=width//3
-        )
+        self.walking = None
     
     def handle_events(self, keys):
 
@@ -64,14 +59,19 @@ class Player(PhysObject):
 
         if keys[pygame.K_a]:
             self.velocity.x = -self.speed
+            self.walking = "left"
         
         if keys[pygame.K_d]:
             self.velocity.x = self.speed
+            self.walking = "right"
         
         if (keys[pygame.K_SPACE] or keys[pygame.K_w]) and self.onground:
             self.velocity.y = -self.jump_force
 
     def update(self, grounds):
+
+        if self.velocity.x == 0:
+            self.walking = None
 
         self.onground = False
 
@@ -99,21 +99,15 @@ class Player(PhysObject):
                 elif self.velocity.y < 0:
                     self.rect.top = ground.rect.bottom
                     self.velocity.y = 0
-
-        self.stamp_rect.topleft = (self.rect.x - 2, self.rect.y + self.rect.height - 2)
-        self.inv_rect.topleft = (self.rect.x + 2, self.rect.y + self.rect.height - 5)
-        self.collor_rect.topleft = (self.rect.x, self.rect.y + self.rect.height + 2)
         
     def render(self, surf, camera):
-        pygame.draw.rect(surf, (255, 255, 255), camera.apply(self.rect), 2)
-
-        face_center = (
-            self.rect.centerx,
-            self.rect.y + 5
-        )
-
-        pygame.draw.rect(surf, (0, 200, 0), camera.apply(self.collor_rect), 1)
-        pygame.draw.rect(surf, (255, 255, 255), camera.apply(self.stamp_rect), 2)
-        pygame.draw.rect(surf, (0, 0, 0), camera.apply(self.inv_rect), 2)
-
-        self.face.render(surf, face_center, self.velocity, camera)
+        if self.walking == "right":
+            carimboG_scaled = pygame.transform.scale(self.sprites["right"], (self.rect.width, self.rect.height))
+            surf.blit(carimboG_scaled, (self.rect.x - camera.pos.x, self.rect.y - camera.pos.y))
+        elif self.walking == "left":
+            carimboG_scaled = pygame.transform.scale(self.sprites["right"], (self.rect.width, self.rect.height))
+            carimboG_fliped = pygame.transform.flip(carimboG_scaled, True, False)
+            surf.blit(carimboG_fliped, (self.rect.x - camera.pos.x, self.rect.y - camera.pos.y))
+        else:
+            carimboG_scaled = pygame.transform.scale(self.sprites["idle"], (self.rect.width, self.rect.height))
+            surf.blit(carimboG_scaled, (self.rect.x - camera.pos.x, self.rect.y - camera.pos.y))
