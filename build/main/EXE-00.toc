@@ -1,0 +1,1652 @@
+('C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+ 'Stamp\\dist\\main.exe',
+ False,
+ False,
+ False,
+ 'C:\\Users\\Rodolfo '
+ 'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+ 'Stamp\\build\\main\\main.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\build\\main\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\build\\main\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\build\\main\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\build\\main\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\build\\main\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\build\\main\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\main.py',
+   'PYSOURCE'),
+  ('python314.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\python314.dll',
+   'BINARY'),
+  ('freetype.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('libopus-0.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('libwebpdemux-2.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libwebpdemux-2.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('portmidi.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\portmidi.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('libogg-0.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('libtiff-5.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libtiff-5.dll',
+   'BINARY'),
+  ('libjpeg-62.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libjpeg-62.dll',
+   'BINARY'),
+  ('libpng16-16.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('libwavpack-1.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libwavpack-1.dll',
+   'BINARY'),
+  ('libwebp-7.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libwebp-7.dll',
+   'BINARY'),
+  ('libxmp.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libxmp.dll',
+   'BINARY'),
+  ('libopusfile-0.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libopusfile-0.dll',
+   'BINARY'),
+  ('_decimal.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_zstd.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('pygame\\imageext.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\imageext.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\window.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\window.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\system.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\system.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\scrap.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\scrap.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\mixer.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer_music.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\mixer_music.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\font.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\font.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_freetype.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\_freetype.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\transform.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\transform.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\time.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\time.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelarray.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\pixelarray.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mask.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\mask.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surface.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\surface.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surflock.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\surflock.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelcopy.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\pixelcopy.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mouse.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\mouse.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\key.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\key.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\joystick.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\joystick.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\image.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\image.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\event.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\event.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\draw.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\draw.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\display.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\display.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\math.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\math.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\bufferproxy.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\bufferproxy.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\color.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\color.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rect.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\rect.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rwobject.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\rwobject.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\constants.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\constants.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_sdl2\\video.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\_sdl2\\video.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_sdl2\\sdl2.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\_sdl2\\sdl2.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_sdl2\\audio.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\_sdl2\\audio.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\base.cp314-win_amd64.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\base.cp314-win_amd64.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('pygame\\libwebp-7.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libwebp-7.dll',
+   'BINARY'),
+  ('pygame\\SDL2.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('pygame\\libopus-0.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('pygame\\libogg-0.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('pygame\\SDL2_image.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('pygame\\SDL2_mixer.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('pygame\\SDL2_ttf.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('pygame\\freetype.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-kernel32-legacy-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-core-kernel32-legacy-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-sysinfo-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-1.dll',
+   'C:\\Program Files\\Java\\jdk-25\\bin\\api-ms-win-core-fibers-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-25\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('data\\cutscenes\\__pycache__\\cutscene_data.cpython-314.pyc',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\cutscenes\\__pycache__\\cutscene_data.cpython-314.pyc',
+   'DATA'),
+  ('data\\cutscenes\\cutscene_data.py',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\cutscenes\\cutscene_data.py',
+   'DATA'),
+  ('data\\dialogues\\__pycache__\\dialogue_data.cpython-314.pyc',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\dialogues\\__pycache__\\dialogue_data.cpython-314.pyc',
+   'DATA'),
+  ('data\\dialogues\\dialogue_data.py',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\dialogues\\dialogue_data.py',
+   'DATA'),
+  ('data\\fonts\\Monocraft.ttf',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\fonts\\Monocraft.ttf',
+   'DATA'),
+  ('data\\sprites\\BackGround.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\BackGround.png',
+   'DATA'),
+  ('data\\sprites\\Background-jogo.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Background-jogo.png',
+   'DATA'),
+  ('data\\sprites\\BaseEsteira.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\BaseEsteira.png',
+   'DATA'),
+  ('data\\sprites\\Chao.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Chao.png',
+   'DATA'),
+  ('data\\sprites\\MenuPlaqueta.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\MenuPlaqueta.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\20 Enemies.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\20 Enemies.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Background\\Blue.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Background\\Blue.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Background\\Brown.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Background\\Brown.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Background\\Gray.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Background\\Gray.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Background\\Green.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Background\\Green.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Background\\Pink.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Background\\Pink.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Background\\Purple.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Background\\Purple.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Background\\Yellow.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Background\\Yellow.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Hello.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Hello.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Boxes\\Box1\\Break.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Boxes\\Box1\\Break.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Boxes\\Box1\\Hit '
+   '(28x24).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Boxes\\Box1\\Hit (28x24).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Boxes\\Box1\\Idle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Boxes\\Box1\\Idle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Boxes\\Box2\\Break.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Boxes\\Box2\\Break.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Boxes\\Box2\\Hit '
+   '(28x24).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Boxes\\Box2\\Hit (28x24).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Boxes\\Box2\\Idle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Boxes\\Box2\\Idle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Boxes\\Box3\\Break.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Boxes\\Box3\\Break.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Boxes\\Box3\\Hit '
+   '(28x24).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Boxes\\Box3\\Hit (28x24).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Boxes\\Box3\\Idle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Boxes\\Box3\\Idle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\Checkpoint\\Checkpoint (Flag Idle)(64x64).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\Checkpoint\\Checkpoint (Flag Idle)(64x64).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\Checkpoint\\Checkpoint (Flag Out) (64x64).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\Checkpoint\\Checkpoint (Flag Out) (64x64).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\Checkpoint\\Checkpoint (No Flag).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\Checkpoint\\Checkpoint (No Flag).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Checkpoints\\End\\End '
+   '(Idle).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\End\\End (Idle).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Checkpoints\\End\\End '
+   '(Pressed) (64x64).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\End\\End (Pressed) (64x64).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Checkpoints\\Start\\Start '
+   '(Idle).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\Start\\Start (Idle).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Checkpoints\\Start\\Start '
+   '(Moving) (64x64).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Checkpoints\\Start\\Start (Moving) (64x64).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Fruits\\Apple.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Fruits\\Apple.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Fruits\\Bananas.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Fruits\\Bananas.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Fruits\\Cherries.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Fruits\\Cherries.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Fruits\\Collected.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Fruits\\Collected.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Fruits\\Kiwi.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Fruits\\Kiwi.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Fruits\\Melon.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Fruits\\Melon.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Fruits\\Orange.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Fruits\\Orange.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Fruits\\Pineapple.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Fruits\\Pineapple.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Items\\Fruits\\Strawberry.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Items\\Fruits\\Strawberry.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Appearing '
+   '(96x96).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Appearing (96x96).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Desappearing '
+   '(96x96).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Desappearing (96x96).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Mask Dude\\Double '
+   'Jump (32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Mask Dude\\Double Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Mask Dude\\Fall '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Mask Dude\\Fall (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Mask Dude\\Hit '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Mask Dude\\Hit (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Mask Dude\\Idle '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Mask Dude\\Idle (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Mask Dude\\Jump '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Mask Dude\\Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Mask Dude\\Run '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Mask Dude\\Run (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Mask Dude\\Wall '
+   'Jump (32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Mask Dude\\Wall Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Ninja '
+   'Frog\\Double Jump (32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Ninja Frog\\Double Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Ninja Frog\\Fall '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Ninja Frog\\Fall (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Ninja Frog\\Hit '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Ninja Frog\\Hit (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Ninja Frog\\Idle '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Ninja Frog\\Idle (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Ninja Frog\\Jump '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Ninja Frog\\Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Ninja Frog\\Run '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Ninja Frog\\Run (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Ninja Frog\\Wall '
+   'Jump (32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Ninja Frog\\Wall Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Pink Man\\Double '
+   'Jump (32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Pink Man\\Double Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Pink Man\\Fall '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Pink Man\\Fall (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Pink Man\\Hit '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Pink Man\\Hit (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Pink Man\\Idle '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Pink Man\\Idle (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Pink Man\\Jump '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Pink Man\\Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Pink Man\\Run '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Pink Man\\Run (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Pink Man\\Wall '
+   'Jump (32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Pink Man\\Wall Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Virtual '
+   'Guy\\Double Jump (32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Virtual Guy\\Double Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Virtual Guy\\Fall '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Virtual Guy\\Fall (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Virtual Guy\\Hit '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Virtual Guy\\Hit (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Virtual Guy\\Idle '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Virtual Guy\\Idle (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Virtual Guy\\Jump '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Virtual Guy\\Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Virtual Guy\\Run '
+   '(32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Virtual Guy\\Run (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Main Characters\\Virtual Guy\\Wall '
+   'Jump (32x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Main '
+   'Characters\\Virtual Guy\\Wall Jump (32x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Achievements.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Achievements.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Back.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Back.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Close.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Close.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Leaderboard.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Leaderboard.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Levels.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Levels.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Next.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Next.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Play.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Play.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Previous.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Previous.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Restart.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Restart.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Settings.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Settings.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Buttons\\Volume.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Buttons\\Volume.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\01.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\01.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\02.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\02.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\03.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\03.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\04.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\04.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\05.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\05.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\06.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\06.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\07.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\07.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\08.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\08.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\09.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\09.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\10.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\10.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\11.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\11.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\12.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\12.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\13.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\13.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\14.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\14.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\15.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\15.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\16.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\16.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\17.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\17.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\18.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\18.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\19.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\19.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\20.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\20.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\21.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\21.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\22.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\22.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\23.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\23.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\24.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\24.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\25.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\25.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\26.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\26.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\27.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\27.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\28.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\28.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\29.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\29.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\30.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\30.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\31.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\31.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\32.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\32.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\33.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\33.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\34.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\34.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\35.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\35.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\36.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\36.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\37.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\37.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\38.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\38.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\39.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\39.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\40.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\40.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\41.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\41.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\42.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\42.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\43.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\43.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\44.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\44.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\45.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\45.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\46.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\46.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\47.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\47.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\48.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\48.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\49.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\49.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Levels\\50.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Menu\\Levels\\50.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Text\\Text (Black) '
+   '(8x10).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Text\\Text '
+   '(Black) (8x10).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Text\\Text (White) '
+   '(8x10).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Menu\\Text\\Text '
+   '(White) (8x10).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Other\\Confetti (16x16).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Other\\Confetti '
+   '(16x16).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Other\\Dust Particle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Other\\Dust '
+   'Particle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Other\\Shadow.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Other\\Shadow.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Other\\Transition.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Other\\Transition.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Terrain\\Terrain (16x16).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Terrain\\Terrain '
+   '(16x16).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Arrow\\Hit (18x18).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Arrow\\Hit '
+   '(18x18).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Arrow\\Idle (18x18).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Arrow\\Idle '
+   '(18x18).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Blocks\\HitSide (22x22).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Blocks\\HitSide (22x22).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Blocks\\HitTop (22x22).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Blocks\\HitTop (22x22).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Blocks\\Idle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Blocks\\Idle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Blocks\\Part 1 (22x22).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Blocks\\Part '
+   '1 (22x22).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Blocks\\Part 2 (22x22).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Blocks\\Part '
+   '2 (22x22).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Falling Platforms\\Off.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Falling '
+   'Platforms\\Off.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Falling Platforms\\On '
+   '(32x10).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Falling '
+   'Platforms\\On (32x10).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Fan\\Off.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Fan\\Off.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Fan\\On (24x8).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Fan\\On '
+   '(24x8).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Fire\\Hit (16x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Fire\\Hit '
+   '(16x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Fire\\Off.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Fire\\Off.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Fire\\On (16x32).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Fire\\On '
+   '(16x32).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Platforms\\Brown Off.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Platforms\\Brown Off.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Platforms\\Brown On '
+   '(32x8).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Platforms\\Brown On (32x8).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Platforms\\Chain.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Platforms\\Chain.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Platforms\\Grey Off.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Platforms\\Grey Off.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Platforms\\Grey On '
+   '(32x8).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Platforms\\Grey On (32x8).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock Head\\Blink '
+   '(42x42).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock '
+   'Head\\Blink (42x42).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock Head\\Bottom Hit '
+   '(42x42).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock '
+   'Head\\Bottom Hit (42x42).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock Head\\Idle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock '
+   'Head\\Idle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock Head\\Left Hit '
+   '(42x42).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock '
+   'Head\\Left Hit (42x42).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock Head\\Right Hit '
+   '(42x42).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock '
+   'Head\\Right Hit (42x42).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock Head\\Top Hit '
+   '(42x42).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Rock '
+   'Head\\Top Hit (42x42).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Sand Mud Ice\\Ice '
+   'Particle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Sand Mud '
+   'Ice\\Ice Particle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Sand Mud Ice\\Mud '
+   'Particle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Sand Mud '
+   'Ice\\Mud Particle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Sand Mud Ice\\Sand Mud Ice '
+   '(16x6).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Sand Mud '
+   'Ice\\Sand Mud Ice (16x6).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Sand Mud Ice\\Sand '
+   'Particle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Sand Mud '
+   'Ice\\Sand Particle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Saw\\Chain.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Saw\\Chain.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Saw\\Off.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Saw\\Off.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Saw\\On (38x38).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Saw\\On '
+   '(38x38).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike Head\\Blink '
+   '(54x52).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike '
+   'Head\\Blink (54x52).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike Head\\Bottom Hit '
+   '(54x52).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike '
+   'Head\\Bottom Hit (54x52).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike Head\\Idle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike '
+   'Head\\Idle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike Head\\Left Hit '
+   '(54x52).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike '
+   'Head\\Left Hit (54x52).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike Head\\Right Hit '
+   '(54x52).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike '
+   'Head\\Right Hit (54x52).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike Head\\Top Hit '
+   '(54x52).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spike '
+   'Head\\Top Hit (54x52).png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spiked Ball\\Chain.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spiked '
+   'Ball\\Chain.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spiked Ball\\Spiked '
+   'Ball.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spiked '
+   'Ball\\Spiked Ball.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Spikes\\Idle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Spikes\\Idle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Trampoline\\Idle.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Trampoline\\Idle.png',
+   'DATA'),
+  ('data\\sprites\\Pixel Adventure 1\\Free\\Traps\\Trampoline\\Jump '
+   '(28x28).png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Pixel Adventure '
+   '1\\Free\\Traps\\Trampoline\\Jump (28x28).png',
+   'DATA'),
+  ('data\\sprites\\StampDaSilvaJr.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\StampDaSilvaJr.png',
+   'DATA'),
+  ('data\\sprites\\Tv.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\Tv.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\carimbos\\FELPS.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\carimbos\\FELPS.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\carimbos\\v.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\carimbos\\v.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\carimbos\\x.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\carimbos\\x.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\cores\\BaseRosa.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\cores\\BaseRosa.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\cores\\BaseVerde.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\cores\\BaseVerde.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\cores\\BaseVermelha.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\cores\\BaseVermelha.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\decoracoes\\Coracao.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\decoracoes\\Coracao.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\decoracoes\\certo.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\decoracoes\\certo.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\decoracoes\\errado.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\decoracoes\\errado.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoBase.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoBase.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoCircular.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoCircular.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoCircularBetula.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoCircularBetula.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoCircularCarvalho.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoCircularCarvalho.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoCircularPinheiro.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoCircularPinheiro.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoQuadradoBetula.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoQuadradoBetula.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoQuadradoCarvalho.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoQuadradoCarvalho.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoQuadradoPinheiro.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoQuadradoPinheiro.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoTriangular.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoTriangular.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoTriangularBetula.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoTriangularBetula.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoTriangularCarvalho.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoTriangularCarvalho.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\formatos\\TopoTriangularPinheiro.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\formatos\\TopoTriangularPinheiro.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\materiais\\BaseBase.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\materiais\\BaseBase.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\materiais\\BaseBetula.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\materiais\\BaseBetula.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\materiais\\BaseCarvalho.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\materiais\\BaseCarvalho.png',
+   'DATA'),
+  ('data\\sprites\\carimbo\\materiais\\BasePinheiro.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\carimbo\\materiais\\BasePinheiro.png',
+   'DATA'),
+  ('data\\sprites\\cutscenes\\CutsceneFrame1.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\cutscenes\\CutsceneFrame1.png',
+   'DATA'),
+  ('data\\sprites\\cutscenes\\CutsceneFrame2.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\cutscenes\\CutsceneFrame2.png',
+   'DATA'),
+  ('data\\sprites\\cutscenes\\CutsceneFrame3.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\cutscenes\\CutsceneFrame3.png',
+   'DATA'),
+  ('data\\sprites\\cutscenes\\CutsceneFrame4.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\cutscenes\\CutsceneFrame4.png',
+   'DATA'),
+  ('data\\sprites\\lixeira\\LixeiraAtraz.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\lixeira\\LixeiraAtraz.png',
+   'DATA'),
+  ('data\\sprites\\lixeira\\LixeiraFrente.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\lixeira\\LixeiraFrente.png',
+   'DATA'),
+  ('data\\sprites\\maquinas\\CanoExtensao.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\maquinas\\CanoExtensao.png',
+   'DATA'),
+  ('data\\sprites\\maquinas\\CarimboCanoEntrada.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\maquinas\\CarimboCanoEntrada.png',
+   'DATA'),
+  ('data\\sprites\\maquinas\\Maquina1.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\maquinas\\Maquina1.png',
+   'DATA'),
+  ('data\\sprites\\maquinas\\Maquina2.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\maquinas\\Maquina2.png',
+   'DATA'),
+  ('data\\sprites\\maquinas\\Maquina3.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\maquinas\\Maquina3.png',
+   'DATA'),
+  ('data\\sprites\\maquinas\\Maquina4.png',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\source\\data\\sprites\\maquinas\\Maquina4.png',
+   'DATA'),
+  ('pygame\\freesansbold.ttf',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\freesansbold.ttf',
+   'DATA'),
+  ('pygame\\pygame_icon.bmp',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\pygame\\pygame_icon.bmp',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\Rodolfo Freitas\\Desktop\\Teste programação\\Fabrica do '
+   'Stamp\\build\\main\\base_library.zip',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1772307094,
+ [('runw.exe',
+   'C:\\Users\\Rodolfo '
+   'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\Rodolfo '
+ 'Freitas\\AppData\\Local\\Programs\\Python\\Python314\\python314.dll')
