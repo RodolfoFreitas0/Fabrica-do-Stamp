@@ -1,2 +1,2 @@
-Todos os assets do jogo foram feitos especificamente para a FelpoJAM durante o período de
+Todos os sprites do jogo foram feitos especificamente para a FelpoJAM durante o período de
 desenvolvimento.
