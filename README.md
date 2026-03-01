@@ -5,11 +5,11 @@
 ## Descrição
 
 Fábrica do Stamp é um jogo simples baseado em Python e Pygame.
-O jogo foi inspirado por um dos mini-games do jogo Purble Place, especificamente o jogo do bolo.
+O jogo foi inspirado em um dos mini-games do jogo Purble Place, especificamente o jogo do bolo.
 
-Fábrica do Stamp é um jogo simples sobre criar carimbos de acordo com o pedido na tela.
-Não fomos capazes de criar ou escolher musicas para o jogo a tempo do dia de entrega infelizmente.
-Esse é meu primeiro projeto para uma JAM, espero que gostem.
+Fábrica do Stamp é um jogo sobre criar carimbos de acordo com o pedido exibido na tela.
+Infelizmente, não fomos capazes de criar ou escolher músicas para o jogo a tempo do prazo de entrega.
+Este é meu primeiro projeto de jogo real, espero que gostem.
 
 ---
 
@@ -47,12 +47,12 @@ compiled/linux/
 
 ---
 
-## Como Jogar
+## Como jogar
 
-O carimbo desejado vai aparecer na tela á direita, você deve fazer um carimbo igual ao que está na imagem.
-Caso acerte, você ganha 1 ponto, caso erre você perde 1.
+O carimbo desejado vai aparecer na tela à direita. Você deve fazer um carimbo igual ao que está na imagem.
+Caso acerte, você ganha 1 ponto; caso erre, você perde 1 ponto.
 Se o tempo acabar antes de você conseguir 10 pontos, você sofre a PUNIÇÃO DIVINA.
-Consiga fazer 10 carimbos corretos em 4 minutos para ganhar o jogo.
+Consiga fazer 10 carimbos corretos em 4 minutos para vencer o jogo.
 
 ---
 
